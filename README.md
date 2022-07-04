@@ -91,7 +91,7 @@ Architecture
 
 Voting App Architecture Diagram
 -----
-![Voting App Architecture diagram]("Voting App Architecture.drawio.png")
+![Voting App Architecture diagram](Voting%20App%20Architecture.drawio.png)
 
 Notes
 -----

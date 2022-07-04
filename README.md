@@ -89,6 +89,9 @@ Architecture
 * A [Postgres](https://hub.docker.com/_/postgres/) or [TiDB](https://hub.docker.com/r/dockersamples/tidb/tags/) database backed by a Docker volume
 * A [Node.js](/result) or [ASP.NET Core SignalR](/result/dotnet) webapp which shows the results of the voting in real time
 
+Voting App Architecture Diagram
+-----
+![Voting App Architecture diagram](Voting App Architecture.png)
 
 Notes
 -----
